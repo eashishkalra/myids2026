@@ -1,0 +1,3 @@
+Time,Length,Info
+0.1,60,GET /index.html HTTP/1.1
+1.2,128,POST /login.php HTTP/1.1
